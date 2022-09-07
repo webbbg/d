@@ -74,7 +74,9 @@
 }
 #scrollUp:hover {
 }
-
+.bottom{
+  padding-bottom: 15px;
+}
 @-webkit-keyframes scroll-ani-to-top {
   0% {
     opacity: 0;
